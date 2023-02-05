@@ -1,6 +1,13 @@
 # Filmo
 
 A Flutter project for a movie streaming platform.   
+# Screens
+## 1- Welcome Screen
+## 2- Home Screen
+## 1- Popular Movies Screen
+## 1- Top Rated Movies Screen
+## 1- Settings Screen
+
 
 ![1675608577282](https://user-images.githubusercontent.com/83073238/216826581-2d24ee73-62ba-41ed-a9a1-5bfdbd882a66.jpg)
 ![1675608577212](https://user-images.githubusercontent.com/83073238/216826586-41c75496-a066-477c-ae58-418ec8f080a4.jpg)
